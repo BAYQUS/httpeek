@@ -14,6 +14,7 @@
   <a href="#ru--русский">Русский</a> ·
   <a href="#ar--العربية">العربية</a>
 </p>
+<pre>Thanks for supporting : <a href="https://turkhacks.com"</pre>
 
 ---
 
