@@ -1,0 +1,41 @@
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9,tr;q=0.7,az;q=0.7
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://google.com/
+Upgrade-Insecure-Requests: 1
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=UTF-8
+Content-Length: 0
+Authorization: Bearer <token_bura_yaz>
+Cookie: sessionid=abc123; csrftoken=xyz456
+X-Requested-With: XMLHttpRequest
+Origin: https://example.com
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Host: example.com
+X-Forwarded-Proto: https
+X-Real-IP: 127.0.0.1
+X-Originating-IP: 127.0.0.1
+Forwarded: for=127.0.0.1;proto=http;by=127.0.0.1
+X-Custom-IP-Authorization: 127.0.0.1
+X-Wap-Profile: http://wap.example.com/uaprof.xml
+X-ATT-DeviceId: GT-P7320
+X-Api-Version: 1
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Content-Type, Authorization
+If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT
+If-None-Match: 33a64df551425fcc55e4d42a148795d9f25f89d4
+ETag: abc123
+From: security-researcher@example.com
+DNT: 1
+Save-Data: on
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
