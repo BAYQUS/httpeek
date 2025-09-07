@@ -2,7 +2,7 @@
 
 A fast, practical HTTP recon tool. Focused on **signal**: statuses, titles, sizes, redirect chains, optional TLS info, and Cloudflare heuristics (DNS + headers).
 
-- Author: **Bayqus** · Email: **bayqus_sec@proton.com** · GitHub: **https://github.com/BAYQUS**
+- Author: **Bayqus** · Email: **bayqussec@gmail.com** · GitHub: **https://github.com/BAYQUS**
 - Acknowledgements: Thanks to **turkhacks.com** and **cyberdark.org** for their support.
 - Part of a larger recon **framework** in development — httpeek is the HTTP module.
 
