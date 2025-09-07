@@ -14,7 +14,8 @@
   <a href="#ru--русский">Русский</a> ·
   <a href="#ar--العربية">العربية</a>
 </p>
-<pre>Thanks for supporting : <a href="https://turkhacks.com"> </a> & <a href="https://cyberdark.org"> </a> </pre>
+<pre>Thanks for supporting : <a href="https://turkhacks.com">Turkhacks.com </a> & <a href="https://cyberdark.org"> Cyberdark.org </a> </pre>
+<b>Darkness is freedom </b>
 
 ---
 
