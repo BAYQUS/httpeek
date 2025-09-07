@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# TR: Destek ve yardım için tüm TurkHacks ekibine ve QARAKURT'a teşekkürler.
+# AZ: Dəstək və yardım üçün bütün TurkHacks komandasına və QARAKURT-a təşəkkürlər.
+# EN: Thanks to the entire TurkHacks team and QARAKURT for their support and help.
+# AR: شكرًا لكل فريق TurkHacks و QARAKURT على الدعم والمساعدة.
 
-# TR: Destek ve yardım için tüm TurkHacks ekibine ve QARAKURT ekibine teşekkürler.
-# AZ: Dəstək və yardım üçün bütün TurkHacks komandasına və QARAKURT komandasına təşəkkürlər.
-# EN: Thanks to the entire TurkHacks team and the QARAKURT team for the support and help.
-# AR: شكرًا لفريق TurkHacks ولفريق QARAKURT على الدعم والمساعدة.
 
 import os
 import sys
